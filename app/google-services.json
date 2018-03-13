@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "52713552489",
+    "firebase_url": "https://atzap-c7d49.firebaseio.com",
+    "project_id": "atzap-c7d49",
+    "storage_bucket": "atzap-c7d49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52713552489:android:c64edaca213b94a4",
+        "android_client_info": {
+          "package_name": "com.naka.atzap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52713552489-lrsgfp5tgfocra9v4ru2m2t9rqhvihka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naka.atzap",
+            "certificate_hash": "4c0b12bc2847f9a092e58308996fa581220d23c2"
+          }
+        },
+        {
+          "client_id": "52713552489-kmhuu2nsgr89jp7u38qk5qbma7i5gd3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM7s2jQegjc1BDE5pyrYo9mqpH-vrsL_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52713552489-kmhuu2nsgr89jp7u38qk5qbma7i5gd3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
